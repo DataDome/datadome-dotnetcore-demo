@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datadome-dotnetcore-demo", "datadome-dotnetcore-demo\datadome-dotnetcore-demo.csproj", "{9725E818-AAC3-475B-8E7C-31BF4AAE9E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9725E818-AAC3-475B-8E7C-31BF4AAE9E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9725E818-AAC3-475B-8E7C-31BF4AAE9E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9725E818-AAC3-475B-8E7C-31BF4AAE9E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9725E818-AAC3-475B-8E7C-31BF4AAE9E76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F70FE2-9A33-4941-8B2A-E515799A41AF}
+	EndGlobalSection
+EndGlobal
