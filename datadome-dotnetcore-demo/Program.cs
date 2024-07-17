@@ -13,5 +13,3 @@ app.UseDataDome();
 app.MapGet("/", () => "Hello ASP.NET Core!");
 
 app.Run();
-
-
